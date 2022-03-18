@@ -1,0 +1,12 @@
+/home/artyom/developing/projects/near-examples/hello-near/contract/target/wasm32-unknown-unknown/debug/deps/sha2-7ab0f3bdebe05454.rmeta: /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/artyom/developing/projects/near-examples/hello-near/contract/target/wasm32-unknown-unknown/debug/deps/libsha2-7ab0f3bdebe05454.rlib: /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/artyom/developing/projects/near-examples/hello-near/contract/target/wasm32-unknown-unknown/debug/deps/sha2-7ab0f3bdebe05454.d: /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs:
+/home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs:
+/home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs:
+/home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs:
+/home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs:
+/home/artyom/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs:
